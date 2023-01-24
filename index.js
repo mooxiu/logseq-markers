@@ -4,7 +4,7 @@ selfDefinedCommands = [
         displayed: `<span style="background-color: orange; color: papayawhip; font-size: larger; font-style: italic; font-weight: bold">WHY?</span>`,
     },
     {
-        prompt: '❓ What the fuck is this?',
+        prompt: '❓ What is this?',
         displayed: `<span style="background-color: red; color: papayawhip; font-size: larger; font-style: italic; font-weight: bold">WHAT?</span>`,
     }
 ]
