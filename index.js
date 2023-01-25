@@ -1,11 +1,15 @@
 selfDefinedCommands = [
     {
-        prompt: '❓ Why, but why',
+        prompt: 'LogMaker📑: ❓Why',
         displayed: `<span style="background-color: orange; color: papayawhip; font-size: larger; font-style: italic; font-weight: bold">WHY?</span>`,
     },
     {
-        prompt: '❓ What is this?',
+        prompt: 'LogMaker📑: ⁉️What is this?',
         displayed: `<span style="background-color: red; color: papayawhip; font-size: larger; font-style: italic; font-weight: bold">WHAT?</span>`,
+    },
+    {
+        prompt: 'LogMaker📑: 🛎️Important!',
+        displayed: `<span style="background-color: teal; color: papayawhip; font-size: larger; font-style: italic; font-weight: bold">IMPORTANT!</span>`
     }
 ]
 

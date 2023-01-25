@@ -23,8 +23,7 @@ However, you can still manually install it!
 ### Manually Install
 
 1. Logseq: Developer mode
-2. Download the latest release of `Logseq-markers-plugin`, move to your favorite place, unzip it. (A good place 
-   might be under `~/.logseq/plugins`)
+2. Download the latest release of `Logseq-markers-plugin`, move to your favorite place, unzip it. 
 3. Logseq -> Plugins -> Load Unpacked Plugin -> Select the unzipped folder -> You're done!
 
 ## License

@@ -1,6 +1,6 @@
 {
   "name": "logseq-markers",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "add noticeable marks in paragraphs, help human eyes to parse the whole note",
   "main": "index.js",
   "author": "mooxiu",
