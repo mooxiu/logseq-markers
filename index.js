@@ -34,6 +34,15 @@ let commands = [
         font_style: "italic",
         font_weight: "bold",
         text: "How?"
+    },
+    {
+        prompt: "?",
+        bk_color: "rgba(165,171,173,0.65)",
+        color: "#ffffff",
+        font_size: "larger",
+        font_style: "italic",
+        font_weight: "bold",
+        text: "Hypothesis"
     }
 ]
 
